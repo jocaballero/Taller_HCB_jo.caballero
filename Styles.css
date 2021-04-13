@@ -1,0 +1,14 @@
+h1 {
+    font-family: Futura,Trebuchet MS,Arial,sans-serif;
+    color: red;
+}
+
+p, li {
+    font-family: Futura,Trebuchet MS,Arial,sans-serif;
+    font-size: 20px;
+    font-weight: lighter;
+}
+
+.libold{
+    font-weight: bold;
+}
